@@ -1,0 +1,3 @@
+join, group by , order by ...
+
+#algebra #sql 

@@ -1,5 +1,5 @@
 # Projeto
-O **Hard Tutorials** é um game que tem o objetivo de ajudar as pessoas a atingirem seus sonhos de vida, através de desafios práticos e testes contextualizados, a partir de uma base de conhecimento organizado, sintetizado e explicações simplificadas, utilizando Inteligência Artificial.
+O **Hard Tutorials** é um game que tem o objetivo de ajudar as pessoas a atingirem seus sonhos de vida, através de desafios práticos e testes contextualizados, a partir de uma base de conhecimento organizado e sintetizado, explicações simplificadas e uma comunidade de estudantes, utilizando Inteligência Artificial.
 
 Qual o seu propósitos definido?
 
