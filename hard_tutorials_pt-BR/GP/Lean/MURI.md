@@ -1,0 +1,1 @@
+Sobrecarga que acontece quando uma pessoa é forçada além de seu limite ou capacidade natural.

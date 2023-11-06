@@ -87,9 +87,9 @@
 	<link href="assets/css/global.css" rel="stylesheet">
 	<script src="assets/js/global.js" async=""></script>
 
-	<script src="assets/js/libraries/p5.min.js" ></script>
-	<script src="assets/js/libraries/p5.sound.min.js" ></script>
-	<!-- <script src="assets/js/libraries/p5.dom.js" ></script> -->
+	<script src="assets/js/libs/p5.min.js" ></script>
+	<script src="assets/js/libs/p5.sound.min.js" ></script>
+	<!-- <script src="assets/js/libs/p5.dom.js" ></script> -->
 
 	<script type="text/javascript">
 		console.log('%c Wellcome in my world!', 'color:green');
@@ -109,10 +109,30 @@
 		<h1>Hard Tutorials</h1> 
 	</div>
 
-	<iframe id="content-iframe" src="./hard_tutorials_pt-BR/_Hard Tutorials/Propósito Hard Tutorials.md" title="Hard Tutorials" height="800px" width="100%" ></iframe>
+	<div id="content">
+	# teste
+	Afassds selid feiif efl fe.
+	
+	`console.log("hello");`
+	
+	AlDnfl dfeli fsselifnei slslslsf elldld.
+	
+	```
+	var u = 1
+	a = u * 2
+	```
+	</div>
+
+	<iframe id="content-iframe" src="./hard_tutorials_pt-BR/_Hard Tutorials/Propósito Hard Tutorials.md" title="Hard Tutorials" height="600px" width="100%" ></iframe>
 
 	<div id="footer"></div>
 
 	<script src="assets/js/custom.js" ></script>
+
+	<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+	<script>
+		document.getElementById('content').innerHTML =
+		marked.parse('# Marked in the browser\n\nRendered by **marked**.');
+	</script>
 </body>
 </html>

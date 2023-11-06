@@ -28,6 +28,8 @@ https://www.gameaipro.com/
 https://en.wikipedia.org/wiki/Artificial_intelligence_in_video_games
 
 Links Game Web:
+https://www.mentimeter.com/pt-BR
+
 https://get.webgl.org/
 
 https://p5js.org/

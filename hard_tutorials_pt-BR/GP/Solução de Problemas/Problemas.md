@@ -1,0 +1,1 @@
+O problema real nunca é o que as pessoas falam que é o problema, na verdade o problema geralmente é o que está atrás do problema.

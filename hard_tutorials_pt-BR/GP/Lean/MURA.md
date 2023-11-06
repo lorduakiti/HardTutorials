@@ -1,0 +1,1 @@
+Desequilíbrio que resultante de volumes de produção irregulares (variações).
